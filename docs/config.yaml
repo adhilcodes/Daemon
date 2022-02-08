@@ -1,0 +1,22 @@
+# Keep this file in the directory you are running netdaemon from.
+
+ssh:
+    username: # SSH username
+    password: # SSH password
+
+subnet: # subnet to scan for devices
+
+admin-email: # Email-ID of network admin
+
+smtp:
+    host:     # SMTP host server address
+    port:     # SMTP host server port
+    id:       # SMTP server email-ID
+    password: # SMTP server password
+
+verbose: # if you want the program to display details while running    
+
+# To implement:
+#   skip:
+#   cooldown:
+#   retries:
