@@ -1,5 +1,12 @@
 # Net-Daemon
 
+ - Daemon is a ML-based Network Administration System
+ - The data for ML model is synthetically generated
+ - Decision by ML model is based on the features RAM free space, Swap memmory free space, Disk free space ,CPU idle and Load average in 3 levels
+ -
+
+
+
 ### Installation  
 From the root directory of the project, use the following commands install the dependencies and the command-line script.  
 ```bash
@@ -16,3 +23,6 @@ To run the program, use the CLI command:
 netdaemon
 ```
   
+### To-do
+
+- Need to automate completly using unsupervised learning
