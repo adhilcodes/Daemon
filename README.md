@@ -2,8 +2,8 @@
 
  - Daemon is a ML-based Network Administration System
  - The data for ML model is synthetically generated
- - Decision by ML model is based on the features RAM free space, Swap memmory free space, Disk free space ,CPU idle and Load average in 3 levels
- -
+ - Decision by ML model is based on the features RAM free space, Swap memmory free space, Disk free space, CPU idle and Load average in 3 levels
+ 
 
 
 
@@ -25,4 +25,4 @@ netdaemon
   
 ### To-do
 
-- Need to automate completly using unsupervised learning
+- Need to automate completly using unsupervised techniques
